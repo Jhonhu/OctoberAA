@@ -15,4 +15,6 @@
   'Martin\\Forms\\Classes\\BackendHelpers' => 'plugins\\martin\\forms\\classes\\BackendHelpers.php',
   'Martin\\Forms\\Classes\\UnreadRecords' => 'plugins\\martin\\forms\\classes\\UnreadRecords.php',
   'cms\\Controllers\\themeoptions' => 'modules\\cms\\controllers\\themeoptions.php',
+  'raviraj\\rjgallery\\Plugin' => 'plugins\\raviraj\\rjgallery\\Plugin.php',
+  'successivesoftware\\paypal\\Plugin' => 'plugins\\successivesoftware\\paypal\\Plugin.php',
 );
